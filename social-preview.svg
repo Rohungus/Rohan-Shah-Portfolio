@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Rohan Shah social preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#18232e"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#80A1C1" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#80A1C1" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="110" r="180" fill="#80A1C1" fill-opacity="0.12"/>
+  <circle cx="190" cy="560" r="220" fill="#80A1C1" fill-opacity="0.08"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="url(#panel)" stroke="rgba(242,244,247,0.14)"/>
+  <text x="108" y="170" fill="#f2f4f7" font-family="'Bebas Neue', Arial, sans-serif" font-size="104" letter-spacing="2">ROHAN SHAH</text>
+  <text x="108" y="236" fill="#80A1C1" font-family="'DM Sans', Arial, sans-serif" font-size="28" letter-spacing="6">CONTENT STRATEGIST   AND   VIDEO EDITOR</text>
+  <text x="108" y="350" fill="#f2f4f7" font-family="'DM Sans', Arial, sans-serif" font-size="42" font-weight="600">9M+ views across YouTube and TikTok</text>
+  <text x="108" y="410" fill="#d8e1ea" font-family="'DM Sans', Arial, sans-serif" font-size="30">Award-winning documentaries, social media storytelling, and published writing.</text>
+  <rect x="108" y="458" width="224" height="58" rx="29" fill="#80A1C1"/>
+  <text x="140" y="497" fill="#0a0a0a" font-family="'DM Sans', Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">VIEW MY WORK</text>
+</svg>
